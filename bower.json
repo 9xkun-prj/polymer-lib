@@ -1,0 +1,19 @@
+{
+  "name": "Webcomponent_sample",
+  "version": "0.0.1",
+  "authors": [
+    "Hoang.Phan <phantichhoang@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer",
+    "google-map": "GoogleWebComponents/google-map"
+  }
+}
